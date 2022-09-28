@@ -1,0 +1,14 @@
+Package: tidytrait
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Frank", "Gootjes", , "gootjes@users.noreply.github.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Collect attributes into a tidy data frame, useful for storing the meta info of a SPSS dataset in R.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    dplyr,
+    purrr
